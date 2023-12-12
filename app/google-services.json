@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "520697978242",
+    "firebase_url": "https://td-ihm-6d814-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "td-ihm-6d814",
+    "storage_bucket": "td-ihm-6d814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520697978242:android:e7b813504e6134c897c39b",
+        "android_client_info": {
+          "package_name": "fr.univbrest.fire_base_tp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWQcGYWFj6WOI2OF8KlzjinJNvRLH9iGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
